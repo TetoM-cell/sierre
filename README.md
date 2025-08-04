@@ -1,2 +1,0 @@
-# sierre
-My KPI tracker
