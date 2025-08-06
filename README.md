@@ -70,7 +70,7 @@ A modern, minimalist KPI tracker application built with Next.js, React, Supabase
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kpi-tracker.git
+   git clone https://github.com/TetoM-cell/sierre.git
    cd kpi-tracker
    ```
 
